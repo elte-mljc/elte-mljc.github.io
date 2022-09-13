@@ -10,7 +10,8 @@ Please consult in advance about the paper choice and date of presentations, and 
 
 ## Program of 2022/2023/1 semester:
 1. 15-09-2022.<br>
-   - [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)<br>
+   - [Unintended memorisation of unique features in
+neural networks](https://arxiv.org/abs/2205.10079)<br>
    - <br>  
 2. 22-09-2022. <br>
 3. 29-09-2022. <br>  
