@@ -12,7 +12,6 @@ Please consult in advance about the paper choice and date of presentations, and 
 1. 15-09-2022.<br>
    - [Unintended memorisation of unique features in
 neural networks](https://arxiv.org/abs/2205.10079)<br>
-   - <br>  
 2. 22-09-2022. <br>
 3. 29-09-2022. <br>  
 4. 06-10-2022. <br>  
