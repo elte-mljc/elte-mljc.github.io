@@ -6,7 +6,7 @@ Students have to request access to [the repository](https://github.com/csabaiBio
 ## Requirements for obtaining a grade  
 Students taking the course have to **attend it regularly in person, and present two different papers** of their choice during the course of the semester. <br>
 Some suggested papers can be found in [the suggestions thread of Discussions in the GitHub repository](https://github.com/csabaiBio/elte_ml_journal_club/discussions/95). <br>
-Please consult in advance about the paper choice and date of presentations, and reserve a presentation slot by writing an e-mail to bbeatrix@student.elte.hu. <br>
+Please consult in advance about the paper choice and date of presentations, and reserve a presentation slot by writing an e-mail to bbeatrix@student.elte.hu. Another way of booking presentation slot is to write the presentation details (ppresenter + link of presented paper/own slides) in [the schedule sheet](https://docs.google.com/spreadsheets/d/1RKnNpA8xfFrHnoDP68YYs5omItHR3VV3xGJ_dXvnOxE/edit?usp=sharing). <br>
 
 ## Program of 2022/2023/1 semester:
 1. 15-09-2022.<br>
