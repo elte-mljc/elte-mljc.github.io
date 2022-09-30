@@ -10,10 +10,12 @@ Please consult in advance about the paper choice and date of presentations, and 
 
 ## Program of 2022/2023/1 semester:
 1. 15-09-2022.<br>
-   - [Unintended memorisation of unique features in
-neural networks](https://arxiv.org/abs/2205.10079)<br>
+   - [Unintended memorisation of unique features in neural networks](https://arxiv.org/abs/2205.10079)<br>
 2. 22-09-2022. <br>
-3. 29-09-2022. <br>  
+   - [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)<br>
+3. 29-09-2022. <br> 
+   - [Nvidia GTC GNN acceleration](https://www.nvidia.com/gtc/)<br>
+   - [Learning to Learn with Generative Models of Neural Network Checkpoints](https://arxiv.org/abs/2209.12892)<br>
 4. 06-10-2022. <br>  
 5. 13-10-2022. <br> 
 6. 20-10-2022. <br> 
