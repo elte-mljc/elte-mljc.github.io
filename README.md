@@ -24,5 +24,5 @@ Please consult in advance about the paper choice and date of presentations, and 
 9. 10-11-2022. <br> 
 10. 17-11-2022. <br>  
 11. 24-11-2022. <br>
-12. 01-11-2022. <br> 
-13. 08-11-2022. <br>
+12. 01-12-2022. <br> 
+13. 08-12-2022. <br>
