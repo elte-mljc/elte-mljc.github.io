@@ -16,7 +16,9 @@ Please consult in advance about the paper choice and date of presentations, and 
 3. 29-09-2022. <br> 
    - [Nvidia GTC GNN acceleration](https://www.nvidia.com/gtc/)<br>
    - [Learning to Learn with Generative Models of Neural Network Checkpoints](https://arxiv.org/abs/2209.12892)<br>
-4. 06-10-2022. <br>  
+4. 06-10-2022. <br> 
+   - [Point Cloud model comparison](https://arxiv.org/abs/1612.00593)<br>
+   - [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792)<br>
 5. 13-10-2022. <br> 
 6. 20-10-2022. <br> 
 7. 27-10-2022. <br> 
