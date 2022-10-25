@@ -20,10 +20,19 @@ Please consult in advance about the paper choice and date of presentations, and 
    - [Point Cloud model comparison](https://arxiv.org/abs/1612.00593)<br>
    - [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792)<br>
 5. 13-10-2022. <br> 
+   - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)<br>
 6. 20-10-2022. <br> 
+   - [Imagen video: High Definition Video Generation with Diffusion Models](https://imagen.research.google/video/paper.pdf)<br>
+   - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)<br>
 7. 27-10-2022. <br> 
+   - [Diffusion Models](https://arxiv.org/abs/2006.11239)<br>
+   - [The Creativity of Text-to-Image Generation (Midjourney)](https://arxiv.org/abs/2206.02904)<br>
 8. 03-11-2022. <br> 
+   - [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)<br>
+   - [How neurons learned to play ping pong in a bowl] <br>
 9. 10-11-2022. <br> 
+   - [Anonymization, differential privacy, monetization of datasets/ML models]()<br>
+   - <br>
 10. 17-11-2022. <br>  
 11. 24-11-2022. <br>
 12. 01-12-2022. <br> 
