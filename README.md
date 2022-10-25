@@ -29,7 +29,7 @@ Please consult in advance about the paper choice and date of presentations, and 
    - [The Creativity of Text-to-Image Generation (Midjourney)](https://arxiv.org/abs/2206.02904)<br>
 8. 03-11-2022. <br> 
    - [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)<br>
-   - [How neurons learned to play ping pong in a bowl] <br>
+   - [How Neurons in a Dish Learned to Play “Pong”](https://www.the-scientist.com/news-opinion/how-neurons-in-a-dish-learned-to-play-pong-70613)<br>
 9. 10-11-2022. <br> 
    - [Anonymization, differential privacy, monetization of datasets/ML models]()<br>
    - <br>
