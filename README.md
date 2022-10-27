@@ -14,7 +14,7 @@ Please consult in advance about the paper choice and date of presentations, and 
 2. 22-09-2022. <br>
    - [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)<br>
 3. 29-09-2022. <br> 
-   - [Nvidia GTC GNN acceleration](https://www.nvidia.com/gtc/)<br>
+   - [Nvidia GTC: GNN acceleration](https://www.nvidia.com/gtc/)<br>
    - [Learning to Learn with Generative Models of Neural Network Checkpoints](https://arxiv.org/abs/2209.12892)<br>
 4. 06-10-2022. <br> 
    - [Point Cloud model comparison](https://arxiv.org/abs/1612.00593)<br>
