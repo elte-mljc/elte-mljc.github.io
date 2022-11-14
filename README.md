@@ -33,8 +33,10 @@ Please consult in advance about the paper choice and date of presentations, and 
    - [Anonymization, differential privacy, monetization of datasets/ML models]()<br>
    - [Predicting tipping points of non-stationary dynamical systems](https://arxiv.org/abs/2207.00521)<br>
 10. 17-11-2022. <br>
-   - [Unintended memorisation of unique features in neural networks](https://arxiv.org/abs/2205.10079)<br>
    - [Half-UNet: A Simplified U-Net Architecture for Medical Image Segmentation](https://www.frontiersin.org/articles/10.3389/fninf.2022.911679/full)<br>
 11. 24-11-2022. <br>
+   -
 12. 01-12-2022. <br> 
+   -
 13. 08-12-2022. <br>
+   -
