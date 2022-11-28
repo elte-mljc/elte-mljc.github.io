@@ -38,6 +38,8 @@ Please consult in advance about the paper choice and date of presentations, and 
       - [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)<br>
       - [Generalization in quantum machine learning from few training data](https://www.nature.com/articles/s41467-022-32550-3)<br>
 12. 01-12-2022. <br>
+      - [Forecasting Actions and Characteristic 3D Poses](https://arxiv.org/abs/2211.14309)<br>
+      - [Going Deeper than Tracking: a Survey of Computer-Vision Based Recognition of Animal Pain and Affective States](https://arxiv.org/abs/2206.08405)<br>
 13. 08-12-2022. <br>
 
 
